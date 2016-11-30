@@ -250,8 +250,7 @@ a {
           .n2g_expresso_wrapper #n2g_expresso_action a.n2g_button.dark.red:hover {
             background-color: #bd0727; }
   .n2g_expresso_wrapper #n2g_expresso_banniere {
-    background-color: white;
-    height: 126px; }
+    background-color: white; }
     .n2g_expresso_wrapper #n2g_expresso_banniere a.n2g_bfm {
       display: block;
       text-decoration: none;
