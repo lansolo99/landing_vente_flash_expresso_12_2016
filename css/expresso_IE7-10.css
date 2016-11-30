@@ -1,0 +1,31 @@
+#expresso_action a.expresso_button span i.chevron, #expresso_avantages a.expresso_button span i.chevron{
+	top:2px;
+}
+
+#expresso_action a.expresso_button.agence span i.chevron{
+	top:0px;
+}
+
+#expresso_avantages .expresso_section .col.span_1_of_4 {
+	width: 22%;
+}
+
+#expresso_avantages .expresso_section .col.span_1_of_4 .expresso_contenu{
+	margin: 30px 24px 20px 24px;
+}
+
+.expresso_wrapper.expresso_bandeau #expresso_avantages .expresso_section .col.span_1_of_4.last{
+	width: 224px;
+}
+
+#expresso_avantages .expresso_section .col.span_1_of_4.rapide {
+	width: 222px;
+}
+
+.expresso_wrapper.expresso_carre #expresso_avantages .expresso_section .col.span_1_of_2 .expresso_contenu{
+	padding-right: 60px;
+}
+
+#expresso_action .text_group.chapo, #expresso_avantages .text_group.chapo {
+	font-size:18px;
+}
