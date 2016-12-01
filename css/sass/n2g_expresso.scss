@@ -172,6 +172,7 @@
 						height: 100px;
 						top:-32px;
 						left: 166px;
+						transform: rotate(-10deg);
 					}
 			}
 
@@ -234,12 +235,13 @@
 					text-align: left;
 					float:left;
 					width: 160px;
-					font-size: 16px;
+					font-size: 17px;
 					line-height: 24px;
 
 					strong{
 						display: block;
-						font-size: 18px;
+						font-size: 20px;
+						margin-bottom: 4px;
 					}
 				}
 

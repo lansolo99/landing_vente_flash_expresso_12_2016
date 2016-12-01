@@ -120,7 +120,8 @@ a {
         width: 100px;
         height: 100px;
         top: -32px;
-        left: 166px; }
+        left: 166px;
+        transform: rotate(-10deg); }
     .n2g_expresso_wrapper #n2g_expresso_bandeau .n2g_expresso_titre {
       text-align: center;
       position: relative;
@@ -165,11 +166,12 @@ a {
         text-align: left;
         float: left;
         width: 160px;
-        font-size: 16px;
+        font-size: 17px;
         line-height: 24px; }
         .n2g_expresso_wrapper #n2g_expresso_bandeau .n2g_expresso_taux div strong {
           display: block;
-          font-size: 18px; }
+          font-size: 20px;
+          margin-bottom: 4px; }
     .n2g_expresso_wrapper #n2g_expresso_bandeau a.n2g_button {
       text-decoration: none;
       position: relative;
