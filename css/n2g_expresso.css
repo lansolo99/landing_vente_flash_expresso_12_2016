@@ -188,7 +188,10 @@ a {
       border-radius: 3px;
       border-bottom: 2px #7d7d7d solid; }
       .n2g_expresso_wrapper #n2g_expresso_bandeau a.n2g_button sup {
-        font-size: 0.5em; }
+        font-size: 0.5em;
+        vertical-align: top;
+        position: relative;
+        top: 2px; }
       .n2g_expresso_wrapper #n2g_expresso_bandeau a.n2g_button img {
         position: absolute;
         right: 25px;
@@ -226,7 +229,10 @@ a {
       border-bottom: 2px #7d7d7d solid;
       position: relative; }
       .n2g_expresso_wrapper #n2g_expresso_action a.n2g_button sup {
-        font-size: 0.5em; }
+        font-size: 0.5em;
+        vertical-align: top;
+        position: relative;
+        top: 2px; }
       .n2g_expresso_wrapper #n2g_expresso_action a.n2g_button img {
         position: absolute;
         right: 25px;
@@ -256,6 +262,7 @@ a {
     background-color: white; }
     .n2g_expresso_wrapper #n2g_expresso_banniere a.n2g_bfm {
       display: block;
+      cursor: pointer;
       text-decoration: none;
       position: relative;
       margin: auto;
